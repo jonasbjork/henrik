@@ -1,5 +1,7 @@
 # demorepo
 
+Authors: Jonas, Nez, Oliver och Henrik
+
   En dag i Stockholm.
   Imorgon i Alvik igen.
 
