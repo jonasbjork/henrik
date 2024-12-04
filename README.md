@@ -10,6 +10,7 @@ Imorgon reser jag hem igen.
 
 Snö. Jul. Kul!
 
+Nu är jag i branchen jonas.
 
 
 Henrikdevops is here!!
